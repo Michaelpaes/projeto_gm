@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /*font-family:;*/
+}
+
+.header {
+  /* position: absolute; */
+  text-align: center;
+  padding: 15vh;
+}
+
+.main {
+  /* position: absolute; */
+  text-align: center;
+  padding: 15vh;
+}
+
+.footer {
+  /* position: absolute; */
+  text-align: center;
+  padding: 15vh;
+}
